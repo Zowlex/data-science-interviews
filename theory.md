@@ -1,4 +1,4 @@
-# Theoretical interview questions
+# Theoretical interview questions (These are my answers)
 
 The list of questions is based on this post: https://hackernoon.com/160-data-science-interview-questions-415s3y2a
 
@@ -8,13 +8,12 @@ Legend: 👶 easy ‍⭐️ medium 🚀 expert
 
 > What is supervised machine learning? 👶
 
-A case when we have both features (the matrix X) and the labels (the vector y) 
+
 
 ## Linear regression
 
 > What is regression? Which models can you use to solve a regression problem? 👶
 
-Regression is a part of supervised ML. Regression models predict a real number
 
 > What is linear regression? When do we use it? 👶
 
